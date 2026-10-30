@@ -1,0 +1,28 @@
+PASS tests/auth.test.js
+  √ Đăng ký thành công và không lộ thông tin mật khẩu (117 ms)
+  √ Từ chối tên trùng (138 ms)
+  √ Đăng nhập thành công (134 ms)
+  √ Từ chối mật khẩu sai (134 ms)
+  √ Từ chối tài khoản không tồn tại (4 ms)
+  √ Từ chối dữ liệu đăng ký không hợp lệ 0 (3 ms)
+  √ Từ chối dữ liệu đăng ký không hợp lệ 1 (3 ms)
+  √ Từ chối dữ liệu đăng ký không hợp lệ 2 (3 ms)
+  √ Từ chối dữ liệu đăng ký không hợp lệ 3 (3 ms)
+  √ Từ chối dữ liệu đăng ký không hợp lệ 4 (4 ms)
+  √ Từ chối dữ liệu đăng ký không hợp lệ 5 (3 ms)
+  √ Từ chối dữ liệu đăng ký không hợp lệ 6 (2 ms)
+  √ Từ chối dữ liệu đăng ký không hợp lệ 7 (3 ms)
+  √ Từ chối dữ liệu đăng ký không hợp lệ 8 (2 ms)
+  √ Chuẩn hóa tên khi đăng ký và đăng nhập (128 ms)
+  √ Hai đăng ký đồng thời chỉ tạo một tài khoản (125 ms)
+  √ Đăng nhập thiếu dữ liệu (4 ms)
+  √ Từ chối JSON lỗi (4 ms)
+  √ Giới hạn kích thước request (3 ms)
+  √ Không lộ chi tiết lỗi nội bộ (3 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       20 passed, 20 total
+Snapshots:   0 total
+Time:        1.731 s
+Ran all test suites.
+Test results written to: ..\..\docs\evidence\local\test-results.json

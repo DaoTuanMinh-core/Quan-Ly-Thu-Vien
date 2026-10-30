@@ -1,0 +1,24 @@
+name: Lab 8 tests
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        variant: [original, local]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - run: npm run setup:${{ matrix.variant }}
+      - run: npm run test:${{ matrix.variant }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: lab08-${{ matrix.variant }}
+          path: docs/evidence/${{ matrix.variant }}/

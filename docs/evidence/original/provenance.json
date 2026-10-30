@@ -1,0 +1,14 @@
+{
+  "variant": "original",
+  "measuredAt": "2026-10-30T05:47:43.749Z",
+  "node": "v24.20.0",
+  "sourceCommit": "a0354412f65fbe20c53bcc91b3ed5a7b4ba15290",
+  "sourceDescription": "Member module, source files preserved",
+  "hashes": {
+    "app.js": "7ee4a4ec82128a2fa797fe2502ded4153e128e8db1bf2b906809753a64770b6d",
+    "services/authService.js": "0fd157f0658cdbe95ce3264cf1b470c730b8b7f828d50214135a3e35011fbe9e",
+    "package.json": "56aa1c9d824390d3e875df853ae08e5418706da4f54260361d95abe2d507fb7f",
+    "package-lock.json": "18db99f11d5ba38d9feee2988f77fb603b924172c3f7e54510e5584588a86582",
+    "test/auth.test.js": "2e4a6314d0836ce3b716ba69e352dae029dff5e83adcb6d827d275873af47b97"
+  }
+}

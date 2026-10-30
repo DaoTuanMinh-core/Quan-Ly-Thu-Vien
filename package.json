@@ -1,0 +1,15 @@
+{
+  "name": "qltv-lab08-report-alignment",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "setup:original": "npm --prefix labs/lab08-auth ci",
+    "setup:local": "npm --prefix labs/lab08-auth-local ci",
+    "test:original": "node tools/run-lab-tests.cjs original",
+    "test:local": "node tools/run-lab-tests.cjs local",
+    "test": "npm run test:original && npm run test:local",
+    "start:original": "node labs/lab08-auth/server.js",
+    "start:local": "npm --prefix labs/lab08-auth-local start",
+    "verify:preservation": "node tools/verify-preservation.cjs"
+  }
+}

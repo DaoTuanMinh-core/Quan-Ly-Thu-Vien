@@ -1,0 +1,25 @@
+{
+  "measuredAt": "2026-10-30T05:49:04.887Z",
+  "results": [
+    {
+      "variant": "original",
+      "statusCodes": [
+        201,
+        200,
+        409,
+        401
+      ],
+      "result": "passed"
+    },
+    {
+      "variant": "local",
+      "statusCodes": [
+        201,
+        200,
+        409,
+        401
+      ],
+      "result": "passed"
+    }
+  ]
+}

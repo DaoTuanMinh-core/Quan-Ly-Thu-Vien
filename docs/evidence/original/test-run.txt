@@ -1,0 +1,15 @@
+---------------------|---------|----------|---------|---------|-------------------
+File                 | % Stmts | % Branch | % Funcs | % Lines | Uncovered Line #s
+---------------------|---------|----------|---------|---------|-------------------
+All files            |   98.43 |    93.75 |     100 |   98.36 |
+ lab08-auth          |   96.15 |       80 |     100 |   96.15 |
+  app.js             |   96.15 |       80 |     100 |   96.15 | 15
+ lab08-auth/services |     100 |      100 |     100 |     100 |
+  authService.js     |     100 |      100 |     100 |     100 |
+---------------------|---------|----------|---------|---------|-------------------
+Test Suites: 1 passed, 1 total
+Tests:       19 passed, 19 total
+Snapshots:   0 total
+Time:        1.638 s
+Ran all test suites.
+Test results written to: ..\..\docs\evidence\original\test-results.json
