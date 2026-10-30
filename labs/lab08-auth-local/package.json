@@ -1,0 +1,9 @@
+{
+  "name": "cnpmth-lab08",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "start": "node server.js", "test": "jest --runInBand", "coverage": "jest --runInBand --coverage" },
+  "dependencies": { "express": "^4.21.2", "bcryptjs": "^3.0.2" },
+  "devDependencies": { "jest": "^29.7.0", "supertest": "^7.1.1" },
+  "jest": { "testEnvironment": "node", "collectCoverageFrom": ["app.js", "services/**/*.js"], "coverageReporters": ["text", "html", "json-summary"] }
+}

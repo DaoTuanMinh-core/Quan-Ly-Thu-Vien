@@ -1,0 +1,10 @@
+**/node_modules/
+**/coverage/
+.env
+.env.*
+!.env.example
+~$*
+*.log
+
+# Bao cao Word chi luu tren may, khong dua len Git
+/docs/reports/

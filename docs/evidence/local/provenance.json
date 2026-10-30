@@ -1,0 +1,14 @@
+{
+  "variant": "local",
+  "measuredAt": "2026-10-30T07:28:30.455Z",
+  "node": "v24.20.0",
+  "sourceCommit": null,
+  "sourceDescription": "CNPMTH local module described in the report",
+  "hashes": {
+    "app.js": "7e842503313837f40d7f9caea4ef15438280253d13c6e42c699553881721e5c0",
+    "services/authService.js": "d8457d8ee7ac6729c8a4949cf6bbf6d33b53205f325720eb62967558ed697d1a",
+    "package.json": "c108a55b728d22998401670c0e40d306b8e9e11b8f102f1095f718bb2a9efafc",
+    "package-lock.json": "db009131b5e666779778bca178af70f8048c295447b21f11763676e292d08a66",
+    "tests/auth.test.js": "836687cfcc1148f7178c2da1671366d81fa5075d14b2e4469061b88c5e2b47ea"
+  }
+}
