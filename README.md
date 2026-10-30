@@ -6,7 +6,7 @@ Phạm vi đã thống nhất: hoàn thiện tài liệu và module xác thực 
 | --- | --- |
 | Module của thành viên | [labs/lab08-auth](labs/lab08-auth/README.md), giữ nguyên mã tại commit a035441; 19 test |
 | Module local trong báo cáo | [labs/lab08-auth-local](labs/lab08-auth-local/README.md), bản Map/AppError/factory, 20 test |
-| Báo cáo Word chính | Bản Word lưu riêng trong thư mục CNPMTH (không đưa lên Git), 71 trang |
+| Báo cáo Word chính | Bản Word lưu riêng trong thư mục CNPMTH (không đưa lên Git), 56 trang |
 | Yêu cầu và truy vết | [BR, FR, 45 UC, quyền và giả định thiết kế](docs/requirements/library-requirements.md) |
 | UML và dữ liệu | [Thiết kế nguồn và mô hình đích](docs/design/library-design.md), chưa triển khai database |
 | Kiểm thử nghiệp vụ | [20 ca dự kiến](tests/test-plan.md), chưa chạy |

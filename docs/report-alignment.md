@@ -1,10 +1,11 @@
 # Đối chiếu repository với báo cáo
 
-Đối chiếu báo cáo Bao_cao_QLTV_Lab08_Hoan_thien.docx, 71 trang, ngày 30/10/2026.
+Đối chiếu báo cáo Bao_cao_QLTV_Lab08_Theo_mau_truong.docx, 56 trang, ngày 30/10/2026.
 
 | Chương | Nội dung có trong repository | Phạm vi |
 | --- | --- | --- |
-| 1–2 | labs/lab08-auth-local; README; docs/user-guide/lab08.md | Bản local 20 test, chưa tích hợp PHP/MySQL |
+| 1–2 | docs/project-overview.md; README | Tổng quan dự án, mô hình phát triển, tổ chức nhóm và cộng tác GitHub theo mẫu |
+| Phụ lục A | labs/lab08-auth-local; docs/user-guide/lab08.md | Nội dung thực hành Lab 8: API, coding standards, ngoại lệ và bảo mật |
 | 3 | docs/requirements/library-requirements.md | 25 BR, 20 FR, 45 UC, 3 đặc tả tiêu biểu, ma trận truy vết/quyền |
 | 4–5 | docs/design/library-design.md và images | Thiết kế; schema nguồn 13 bảng và phần mở rộng chưa triển khai |
 | 6.1–6.2 | docs/evidence/local | Test/coverage xác thực local, không áp dụng cho mọi FR |

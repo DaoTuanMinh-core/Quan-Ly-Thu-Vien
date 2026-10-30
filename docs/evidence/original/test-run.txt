@@ -10,6 +10,6 @@ All files            |   98.43 |    93.75 |     100 |   98.36 |
 Test Suites: 1 passed, 1 total
 Tests:       19 passed, 19 total
 Snapshots:   0 total
-Time:        1.638 s
+Time:        1.532 s
 Ran all test suites.
 Test results written to: ..\..\docs\evidence\original\test-results.json

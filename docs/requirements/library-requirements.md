@@ -1,6 +1,6 @@
 # Yêu cầu thư viện và truy vết theo báo cáo
 
-Nguồn: báo cáo Word hoàn thiện 71 trang, Chương 3. Các quy tắc đã xác nhận khác với giả định TK01–TK04; chưa có hiện thực các nghiệp vụ này trong backend PHP.
+Nguồn: báo cáo Word hoàn thiện 56 trang, Chương 3. Các quy tắc đã xác nhận khác với giả định TK01–TK04; chưa có hiện thực các nghiệp vụ này trong backend PHP.
 
 # CHƯƠNG 3. PHÂN TÍCH VÀ ĐẶC TẢ YÊU CẦU HỆ THỐNG
 
@@ -247,7 +247,7 @@ UC ghi bằng số, cùng tiền tố UC-TV. BR là quy tắc liên quan, không
 
 | FR / BR | UC | Mục thiết kế | Dữ liệu | Kiểm thử / trạng thái |
 | --- | --- | --- | --- | --- |
-| FR01 / BR01–03 | 01 | 2.1; 5.4.7 | TaiKhoan | TC-LIB01; một phần local |
+| FR01 / BR01–03 | 01 | A.3; 5.4.7 | TaiKhoan | TC-LIB01; một phần local |
 | FR02 / BR01–03 | 44, 45 | 3.10; 5.4.7 | TaiKhoan, NhanVien | TC-LIB02; thiết kế |
 | FR03 / BR01–03 | 34 | 3.10; 5.4.7 | Doc_gia | TC-LIB03; thiết kế |
 | FR04 / BR04–06 | 04, 32, 33 | 4.1; 5.4.4 | Sach | TC-LIB04; thiết kế |

@@ -1,14 +1,14 @@
 {
   "variant": "local",
-  "measuredAt": "2026-10-30T05:47:44.250Z",
+  "measuredAt": "2026-10-30T07:28:30.455Z",
   "node": "v24.20.0",
   "sourceCommit": null,
   "sourceDescription": "CNPMTH local module described in the report",
   "hashes": {
-    "app.js": "1e1613639b416d0eeb52f66803004a81908605b9b3d5a6be167a13930899db20",
-    "services/authService.js": "605df6a4476f7db21b2a8ce0eefd54a690c497f09f18e2ff1d468fbc7a330493",
-    "package.json": "35e1fc12eddd6699e9759c9a90a6e7dc43981827589969eacbd5918fd61c69bb",
-    "package-lock.json": "1b2fe510e6ce315bd32b7084317d1ac7f562399e6cabf81803ed83d9a34f7131",
-    "tests/auth.test.js": "1e64291dbc59b76048b656843088e9bca56280ddf489641ad88418fb3f828a6a"
+    "app.js": "7e842503313837f40d7f9caea4ef15438280253d13c6e42c699553881721e5c0",
+    "services/authService.js": "d8457d8ee7ac6729c8a4949cf6bbf6d33b53205f325720eb62967558ed697d1a",
+    "package.json": "c108a55b728d22998401670c0e40d306b8e9e11b8f102f1095f718bb2a9efafc",
+    "package-lock.json": "db009131b5e666779778bca178af70f8048c295447b21f11763676e292d08a66",
+    "tests/auth.test.js": "836687cfcc1148f7178c2da1671366d81fa5075d14b2e4469061b88c5e2b47ea"
   }
 }
